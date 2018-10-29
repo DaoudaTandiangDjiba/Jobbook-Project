@@ -1,0 +1,172 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="0A95C331-62D8-E811-BEC6-6C40089F3C5E" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="21">
+    <control controlID="F8C5CA42-62D8-E811-BEC6-6C40089F3C5E" controlTypeID="Image" x="0" y="0" w="1100" h="82" zOrder="0">
+      <URL>A5D43DDFBC0EB95F34D961FBB9DA1449.png</URL>
+      <flipHorizontal>True</flipHorizontal>
+    </control>
+    <control controlID="D616007A-62D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="10" y="4" w="61" h="60" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F8304CC0-3ED8-E811-BEC6-6C40089F3C5E" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{5CB9AAF6-6CD8-E811-BEC6-6C40089F3C5E}" coords="(0,0,61,60)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>LOGO%0A</text>
+      <textSize>18</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="28656D59-66D8-E811-BEC6-6C40089F3C5E" controlTypeID="Search" x="926" y="20" w="169" h="34" zOrder="2">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Search</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C89760AF-08D9-E811-B40D-6C40089F3C5E" controlTypeID="Label" x="496" y="22" w="161" h="34" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3A54A5A4-18D9-E811-B40D-6C40089F3C5E" linkType="ltPageLink" isApplyIncludePage="False" title="Find+Talents+page">
+          <area shape="0" alt="" ID="{9A8F0F33-1BD9-E811-B40D-6C40089F3C5E}" coords="(0,0,161,34)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="ArialMT" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Find+Talents</text>
+      <textColor>4294967295</textColor>
+      <textSize>30</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="229860AF-08D9-E811-B40D-6C40089F3C5E" controlTypeID="Label" x="677" y="21" w="225" h="34" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F2159D9F-1AD9-E811-B40D-6C40089F3C5E" linkType="ltPageLink" isApplyIncludePage="False" title="Find+Freelancers+page">
+          <area shape="0" alt="" ID="{44D10F33-1BD9-E811-B40D-6C40089F3C5E}" coords="(0,0,225,34)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="ArialMT" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Find+Freelancers</text>
+      <textColor>4294967295</textColor>
+      <textSize>30</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A66266E2-08D9-E811-B40D-6C40089F3C5E" controlTypeID="Label" x="331" y="19" w="142" h="36" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Post+a+Job</text>
+      <textColor>4294967295</textColor>
+      <textSize>30</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C8D3B211-09D9-E811-B40D-6C40089F3C5E" controlTypeID="Shape" x="0" y="82" w="121" h="429" zOrder="6">
+      <color>4278216345</color>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textColor>4278216345</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8CB80E4B-71D8-E811-BEC6-6C40089F3C5E" controlTypeID="__group__" x="34" y="117" w="40" h="56" zOrder="7">
+      <groupChildrenDescriptors>
+        <control controlID="D2629E38-6DD8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="1" y="38" w="37" h="18" zOrder="0">
+          <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+          <text>Home</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="94B11155-6DD8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="0" y="0" w="40" h="40" zOrder="1">
+          <color>4294967295</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62535</iconCode>
+          </icon>
+          <URL>CF75DBB601952B6BB4B151C544C1D2C8.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="E2BC1E54-71D8-E811-BEC6-6C40089F3C5E" controlTypeID="__group__" x="20" y="385" w="76" h="58" zOrder="8">
+      <groupChildrenDescriptors>
+        <control controlID="F61C8616-6FD8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="14" y="0" w="41" h="41" zOrder="0">
+          <color>4294967295</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61602</iconCode>
+          </icon>
+          <URL>AEFA5401AD30C5E152F0C077476D822B.svg</URL>
+        </control>
+        <control controlID="46FDE98A-70D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="0" y="40" w="76" h="18" zOrder="1">
+          <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+          <text>Notifications</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="F88B687C-74D8-E811-BEC6-6C40089F3C5E" controlTypeID="__group__" x="10" y="294" w="89" h="65" zOrder="9">
+      <groupChildrenDescriptors>
+        <control controlID="245795B5-71D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="0" y="47" w="89" h="18" zOrder="0">
+          <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+          <text>Targeted+profil</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="94B0D4FF-73D8-E811-BEC6-6C40089F3C5E" controlTypeID="__group__" x="18" y="0" w="49" h="50" zOrder="1">
+          <groupChildrenDescriptors>
+            <control controlID="5418E969-73D8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="0" y="1" w="49" h="49" zOrder="0">
+              <color>4294967295</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62119</iconCode>
+              </icon>
+              <URL>FC6504E6D37921D9BFEE47A7CDD18A7C.svg</URL>
+            </control>
+            <control controlID="38E3710F-73D8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="12" y="12" w="27" h="27" zOrder="1">
+              <color>4294967295</color>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62589</iconCode>
+              </icon>
+              <URL>B845D5C7314F9A66A246F9D6248F7AC9.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="F6BE6150-71D8-E811-BEC6-6C40089F3C5E" controlTypeID="__group__" x="20" y="205" w="68" h="60" zOrder="10">
+      <groupChildrenDescriptors>
+        <control controlID="06B707D2-6ED8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="10" y="0" w="48" h="48" zOrder="0">
+          <color>4294967295</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62457</iconCode>
+          </icon>
+          <URL>37CEF910808B6C671496C3CA3DF0A1A0.svg</URL>
+        </control>
+        <control controlID="329C6237-70D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="0" y="42" w="68" h="18" zOrder="1">
+          <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+          <text>Messaging</text>
+          <textColor>4294967295</textColor>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

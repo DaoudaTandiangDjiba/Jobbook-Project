@@ -1,0 +1,367 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F8304CC0-3ED8-E811-BEC6-6C40089F3C5E" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1200" measureH="2300" mobileScreenScale="0">
+  <controls controlCount="41">
+    <control controlID="6ADF78FF-3ED8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="83" y="26" w="186" h="57" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F8304CC0-3ED8-E811-BEC6-6C40089F3C5E" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{662B34E3-1AD9-E811-B40D-6C40089F3C5E}" coords="(0,0,186,57)"/>
+        </link>
+      </links>
+      <font family="Arial+Black" displayName="Arial+Black" postScript="Arial-Black" weightStyle="Regular" weight="900" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Jobbook</text>
+      <textColor>4294967295</textColor>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1E8A2737-40D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="396" y="30" w="130" h="34" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="520BD98E-17D9-E811-B40D-6C40089F3C5E" linkType="ltPageLink" isApplyIncludePage="False" title="Find+Jobs+page">
+          <area shape="0" alt="" ID="{62F9F6AC-19D9-E811-B40D-6C40089F3C5E}" coords="(0,0,130,34)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="ArialMT" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Find+Jobs</text>
+      <textColor>4294967295</textColor>
+      <textSize>30</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5A8DE449-40D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="555" y="30" w="161" h="34" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3A54A5A4-18D9-E811-B40D-6C40089F3C5E" linkType="ltPageLink" isApplyIncludePage="False" title="Find+Talents+page">
+          <area shape="0" alt="" ID="{2432F7AC-19D9-E811-B40D-6C40089F3C5E}" coords="(0,0,161,34)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="ArialMT" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Find+Talents</text>
+      <textColor>4294967295</textColor>
+      <textSize>30</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1C01885C-40D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="750" y="30" w="225" h="34" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F2159D9F-1AD9-E811-B40D-6C40089F3C5E" linkType="ltPageLink" isApplyIncludePage="False" title="Find+Freelancers+page">
+          <area shape="0" alt="" ID="{F482B7ED-1AD9-E811-B40D-6C40089F3C5E}" coords="(0,0,225,34)"/>
+        </link>
+      </links>
+      <font family="Arial" displayName="Arial" postScript="ArialMT" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Find+Freelancers</text>
+      <textColor>4294967295</textColor>
+      <textSize>30</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="324A3EB5-40D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="20" y="23" w="61" h="60" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F8304CC0-3ED8-E811-BEC6-6C40089F3C5E" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{A41935E3-1AD9-E811-B40D-6C40089F3C5E}" coords="(0,0,61,60)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>LOGO%0A</text>
+      <textSize>18</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6C3F3F41-43D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="52" y="849" w="194" h="180" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Skills+developpers%0A</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="3E5EFFAC-44D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="419" y="1113" w="375" h="57" zOrder="6">
+      <font family="Arial+Black" displayName="Arial+Black" postScript="Arial-Black" weightStyle="Regular" weight="900" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Schools+Partners</text>
+      <textColor>4294967295</textColor>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="18A7A3BD-44D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="397" y="1497" w="446" h="57" zOrder="7">
+      <font family="Arial+Black" displayName="Arial+Black" postScript="Arial-Black" weightStyle="Regular" weight="900" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Corporates+Partners</text>
+      <textColor>4294967295</textColor>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0449C9FA-44D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="523" y="1895" w="193" h="57" zOrder="8">
+      <font family="Arial+Black" displayName="Arial+Black" postScript="Arial-Black" weightStyle="Regular" weight="900" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>About+us</text>
+      <textColor>4294967295</textColor>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="28FE120F-45D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="456" y="663" w="289" h="57" zOrder="9">
+      <font family="Arial+Black" displayName="Arial+Black" postScript="Arial-Black" weightStyle="Regular" weight="900" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>How+it+works</text>
+      <textColor>4294967295</textColor>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0056149C-45D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="275" y="849" w="194" h="180" zOrder="10">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Designers+%26+creatives%0A</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="F07757BF-45D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="496" y="849" w="194" h="180" zOrder="11">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Bloogers+%26+writers</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="5A75DBD8-45D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="718" y="849" w="194" h="180" zOrder="12">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Sales+%26+marketings</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="C68C60EE-45D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="941" y="845" w="194" h="180" zOrder="13">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Big+Data+%26+AI+%26+Data+science</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="CCCB58BF-46D8-E811-BEC6-6C40089F3C5E" controlTypeID="Circle" x="893" y="2145" w="82" h="67" zOrder="14">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>18</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="40547E57-46D8-E811-BEC6-6C40089F3C5E" controlTypeID="AlarmIcon2" x="909" y="2155" w="50" h="50" zOrder="15">
+      <groupChildrenDescriptors>
+        <control controlID="DE6F7E57-46D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="0" y="0" w="50" h="50" zOrder="0">
+          <canMove>False</canMove>
+          <alias>shape</alias>
+          <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+          <textSize>18</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F29C7E57-46D8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="0" y="0" w="50" h="50" zOrder="1">
+          <color>4278216345</color>
+          <canMove>False</canMove>
+          <alias>icon</alias>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61594</iconCode>
+          </icon>
+          <URL>D490C652DAD7B0B7B04404FDF6724B82.svg</URL>
+        </control>
+        <control controlID="B0A77E57-46D8-E811-BEC6-6C40089F3C5E" controlTypeID="Label" x="-8" y="0" w="44" h="22" zOrder="2">
+          <canMove>False</canMove>
+          <alias>label</alias>
+          <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+          <text>Label</text>
+          <textSize>18</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3AD77E57-46D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="32" y="0" w="18" h="17" zOrder="3">
+          <color>4294901760</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>alarm</alias>
+          <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+          <text>2</text>
+          <textColor>4294967295</textColor>
+          <textSize>11</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>100</radius>
+          <radiusIsPercent>True</radiusIsPercent>
+        </control>
+      </groupChildrenDescriptors>
+      <iconSize>50</iconSize>
+      <showAlarm>False</showAlarm>
+    </control>
+    <control controlID="BE68CF4F-47D8-E811-BEC6-6C40089F3C5E" controlTypeID="Circle" x="992" y="2141" w="80" h="71" zOrder="16">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>18</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="04894A69-47D8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="1008" y="2156" w="47" h="47" zOrder="17">
+      <color>4278216345</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62019</iconCode>
+      </icon>
+      <URL>6E397F998770B38A343BB5B849DF19E9.svg</URL>
+    </control>
+    <control controlID="5012CF87-47D8-E811-BEC6-6C40089F3C5E" controlTypeID="Circle" x="1084" y="2145" w="85" h="67" zOrder="18">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>18</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="1E8D538D-47D8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="1102" y="2154" w="47" h="47" zOrder="19">
+      <color>4278216345</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIcoMoonFree</iconFontName>
+        <iconCode>60106</iconCode>
+      </icon>
+      <URL>48BD105CDAE853C04640B02166798F63.svg</URL>
+    </control>
+    <control controlID="56EB4608-48D8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="0" y="2222" w="1200" h="78" zOrder="20">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Copyright++++++2018+Jobbook.com</text>
+      <textSize>18</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="04AFCC65-48D8-E811-BEC6-6C40089F3C5E" controlTypeID="Circle" x="1133" y="2232" w="62" h="58" zOrder="21">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>18</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="14E53DAE-48D8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="1145" y="2242" w="38" h="38" zOrder="22">
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61814</iconCode>
+      </icon>
+      <URL>FDCDC36B9010C9649D16BDA0831947E3.svg</URL>
+    </control>
+    <control controlID="E245B5FD-48D8-E811-BEC6-6C40089F3C5E" controlTypeID="Icon" x="550" y="2249" w="24" h="24" zOrder="23">
+      <color>4278190080</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61945</iconCode>
+      </icon>
+      <URL>A71E98588E066F88C73CF2B4E3CFBB82.svg</URL>
+    </control>
+    <control controlID="88BF4DA3-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="52" y="1267" w="194" h="180" zOrder="24">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>UCAD%0A</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="00C04DA3-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="275" y="1267" w="194" h="180" zOrder="25">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>UGB</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="5AC04DA3-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="496" y="1267" w="194" h="180" zOrder="26">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>IAM</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="FAC04DA3-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="718" y="1267" w="194" h="180" zOrder="27">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>EDACY</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="54C14DA3-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="941" y="1263" w="194" h="180" zOrder="28">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>ISEG</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="5EDD44A9-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="62" y="1630" w="194" h="180" zOrder="29">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="E0DD44A9-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="285" y="1630" w="194" h="180" zOrder="30">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Designers+%26+creatives%0A</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="30DE44A9-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="506" y="1630" w="194" h="180" zOrder="31">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Bloogers+%26+writers</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="D0DE44A9-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="728" y="1630" w="194" h="180" zOrder="32">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Sales+%26+marketings</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="20DF44A9-4AD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="951" y="1626" w="194" h="180" zOrder="33">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Big+Data+%26+AI+%26+Data+science</text>
+      <textSize>32</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="3E7F8850-4CD8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="0" y="101" w="1200" h="422" zOrder="34">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>18</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5EBEBFF1-4BD8-E811-BEC6-6C40089F3C5E" controlTypeID="Image" x="85" y="139" w="1016" h="378" zOrder="35">
+      <URL>8BCF24CE6D6C57C2283747FDD227A67E.jpg</URL>
+    </control>
+    <control controlID="FACFE30E-4ED8-E811-BEC6-6C40089F3C5E" controlTypeID="Shape" x="1004" y="21" w="196" h="52" zOrder="36">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="98FA7F45-11D9-E811-B40D-6C40089F3C5E" linkType="ltPageLink" isApplyIncludePage="False" title="Choice+page">
+          <area shape="0" alt="" ID="{DCA91A1F-55D8-E811-BEC6-6C40089F3C5E}" coords="(0,0,196,52)"/>
+        </link>
+      </links>
+      <font family="Arial+Black" displayName="Arial+Black" postScript="Arial-Black" weightStyle="Regular" weight="900" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Sign+in%2F+Sign+up</text>
+      <textColor>4278216345</textColor>
+      <textSize>20</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>24</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278216345</backgroundColor>
+    <fontSize>18</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

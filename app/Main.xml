@@ -1,0 +1,187 @@
+﻿<project version="2.9" name="Prototype" ID="EA2F4CC0-3ED8-E811-BEC6-6C40089F3C5E">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" orientation="" mobileScreenScale="" mobileType="" pageSize="(1100,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptTeamProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="F8304CC0-3ED8-E811-BEC6-6C40089F3C5E" expanded="True" code="PfkIjVgByv" thumbCode="PfkIjVgByv" status="psWhite" isLastOpen="" createdate="2018-10-25 03:14:26" author="182590" modifieddate="2018-10-26 05:47:25" isdeleted="False" isfolder="False" ismodified="False" syncversion="38" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="FDCDC36B9010C9649D16BDA0831947E3.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+        <image key="8BCF24CE6D6C57C2283747FDD227A67E.jpg"/>
+      </images>
+    </page>
+    <page name="Choice page" ID="98FA7F45-11D9-E811-B40D-6C40089F3C5E" expanded="True" code="ThMs9TjJAr" thumbCode="9eSeCVPY7B" status="psWhite" isLastOpen="" createdate="2018-10-26 04:21:23" author="182590" modifieddate="2018-10-26 05:47:45" isdeleted="False" isfolder="False" ismodified="False" syncversion="38" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+      </images>
+    </page>
+    <page name="Talent Sign up page" ID="AC35864E-4FD8-E811-BEC6-6C40089F3C5E" expanded="True" code="AF3LkUmupj" thumbCode="AF3LkUmupj" status="psWhite" isLastOpen="" createdate="2018-10-25 05:12:56" author="182590" modifieddate="2018-10-26 05:31:30" isdeleted="False" isfolder="False" ismodified="False" syncversion="34" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="4A1A07203BF2A2308599888574B67F56.png"/>
+      </images>
+    </page>
+    <page name="Talent Subscription complete" ID="3665DD34-67D8-E811-BEC6-6C40089F3C5E" expanded="True" code="83oxH54BML" thumbCode="83oxH54BML" status="psWhite" isLastOpen="" createdate="2018-10-25 08:04:01" author="182590" modifieddate="2018-10-26 05:31:56" isdeleted="False" isfolder="False" ismodified="False" syncversion="34" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="C2B7F4C3A07CA8AB80873DEE30C44374.png"/>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+      </images>
+    </page>
+    <page name="Sign in page" ID="ECAEAFF8-67D8-E811-BEC6-6C40089F3C5E" expanded="True" code="YSLkfErv4c" thumbCode="YSLkfErv4c" status="psWhite" isLastOpen="" createdate="2018-10-25 08:09:30" author="182590" modifieddate="2018-10-26 05:32:20" isdeleted="False" isfolder="False" ismodified="False" syncversion="34" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+      </images>
+    </page>
+    <page name="Talent profile" ID="0A95C331-62D8-E811-BEC6-6C40089F3C5E" expanded="True" code="rjWApf8Tmg" thumbCode="RRA8Hsm4p9" status="psWhite" isLastOpen="True" createdate="2018-10-25 07:28:08" author="182590" modifieddate="2018-10-26 05:56:24" isdeleted="False" isfolder="False" ismodified="False" syncversion="39" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="FC6504E6D37921D9BFEE47A7CDD18A7C.svg"/>
+        <image key="AEFA5401AD30C5E152F0C077476D822B.svg"/>
+        <image key="B845D5C7314F9A66A246F9D6248F7AC9.svg"/>
+        <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
+        <image key="CF75DBB601952B6BB4B151C544C1D2C8.svg"/>
+        <image key="A5D43DDFBC0EB95F34D961FBB9DA1449.png"/>
+      </images>
+    </page>
+    <page name="Corporate Sign up page" ID="52995383-10D9-E811-B40D-6C40089F3C5E" expanded="True" code="lNefESX8Zv" thumbCode="lNefESX8Zv" status="psWhite" isLastOpen="" createdate="2018-10-26 04:15:58" author="182590" modifieddate="2018-10-26 05:33:00" isdeleted="False" isfolder="False" ismodified="False" syncversion="34" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="4A1A07203BF2A2308599888574B67F56.png"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+      </images>
+    </page>
+    <page name="Corporate Subscription complete" ID="5261CA3B-19D9-E811-B40D-6C40089F3C5E" expanded="False" code="laiKmj4ZuQ" thumbCode="laiKmj4ZuQ" status="psWhite" isLastOpen="" createdate="2018-10-26 05:18:23" author="182590" modifieddate="2018-10-26 05:33:32" isdeleted="False" isfolder="False" ismodified="False" syncversion="34" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="C2B7F4C3A07CA8AB80873DEE30C44374.png"/>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+      </images>
+    </page>
+    <page name="School Sign up page" ID="4C09A9CD-15D9-E811-B40D-6C40089F3C5E" expanded="True" code="E87CtXUOA3" thumbCode="E87CtXUOA3" status="psWhite" isLastOpen="" createdate="2018-10-26 04:53:50" author="182590" modifieddate="2018-10-26 05:33:55" isdeleted="False" isfolder="False" ismodified="False" syncversion="34" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="4A1A07203BF2A2308599888574B67F56.png"/>
+      </images>
+    </page>
+    <page name="SchoolUniv Subscription complete" ID="50E20054-19D9-E811-B40D-6C40089F3C5E" expanded="False" code="AAwDtimsmP" thumbCode="AAwDtimsmP" status="psWhite" isLastOpen="" createdate="2018-10-26 05:19:04" author="182590" modifieddate="2018-10-26 05:35:42" isdeleted="False" isfolder="False" ismodified="False" syncversion="34" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="C2B7F4C3A07CA8AB80873DEE30C44374.png"/>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+      </images>
+    </page>
+    <page name="Find Jobs page" ID="520BD98E-17D9-E811-B40D-6C40089F3C5E" expanded="True" code="K2VovvboRv" thumbCode="Q2qKkqOqas" status="psWhite" isLastOpen="" createdate="2018-10-26 05:06:23" author="182590" modifieddate="2018-10-26 05:42:14" isdeleted="False" isfolder="False" ismodified="False" syncversion="37" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="4A1A07203BF2A2308599888574B67F56.png"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+      </images>
+    </page>
+    <page name="Find Talents page" ID="3A54A5A4-18D9-E811-B40D-6C40089F3C5E" expanded="True" code="1XDRICWTbS" thumbCode="1XDRICWTbS" status="psWhite" isLastOpen="" createdate="2018-10-26 05:14:09" author="182590" modifieddate="2018-10-26 05:44:47" isdeleted="False" isfolder="False" ismodified="False" syncversion="37" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="4A1A07203BF2A2308599888574B67F56.png"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+      </images>
+    </page>
+    <page name="Find Freelancers page" ID="F2159D9F-1AD9-E811-B40D-6C40089F3C5E" expanded="True" code="8aiAjr1GHY" thumbCode="FxKg9Q5ySl" status="psWhite" isLastOpen="" createdate="2018-10-26 05:28:20" author="182590" modifieddate="2018-10-26 05:44:10" isdeleted="False" isfolder="False" ismodified="False" syncversion="37" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="4A1A07203BF2A2308599888574B67F56.png"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+      </images>
+    </page>
+    <page name="Corporate profile" ID="0A3E966E-1CD9-E811-B40D-6C40089F3C5E" expanded="False" code="ZtGn5SUetB" thumbCode="ZtGn5SUetB" status="psWhite" isLastOpen="" createdate="2018-10-26 05:41:17" author="182590" modifieddate="2018-10-26 05:42:42" isdeleted="False" isfolder="False" ismodified="False" syncversion="37" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="AEFA5401AD30C5E152F0C077476D822B.svg"/>
+        <image key="FC6504E6D37921D9BFEE47A7CDD18A7C.svg"/>
+        <image key="A5D43DDFBC0EB95F34D961FBB9DA1449.png"/>
+        <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
+        <image key="B845D5C7314F9A66A246F9D6248F7AC9.svg"/>
+        <image key="CF75DBB601952B6BB4B151C544C1D2C8.svg"/>
+      </images>
+    </page>
+    <page name="SchoolUniv profile" ID="1E497BAB-1CD9-E811-B40D-6C40089F3C5E" expanded="True" code="sXdxpxJWlH" thumbCode="sXdxpxJWlH" status="psWhite" isLastOpen="" createdate="2018-10-26 05:42:59" author="182590" modifieddate="2018-10-26 05:46:16" isdeleted="False" isfolder="False" ismodified="False" syncversion="37" lasteditor="182590" isshownode="True">
+      <images>
+        <image key="FC6504E6D37921D9BFEE47A7CDD18A7C.svg"/>
+        <image key="AEFA5401AD30C5E152F0C077476D822B.svg"/>
+        <image key="B845D5C7314F9A66A246F9D6248F7AC9.svg"/>
+        <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
+        <image key="CF75DBB601952B6BB4B151C544C1D2C8.svg"/>
+        <image key="A5D43DDFBC0EB95F34D961FBB9DA1449.png"/>
+      </images>
+    </page>
+  </pages>
+  <masters>
+    <master name="Master" ID="E4D50DC1-72D8-E811-BEC6-6C40089F3C5E" status="psWhite" createDate="2018-10-25 09:26:41" author="182590" modifieddate="2018-10-25 09:29:19" isdeleted="False" ismodified="False" syncversion="20" lasteditor="182590">
+      <refPages/>
+      <images>
+        <image key="FC6504E6D37921D9BFEE47A7CDD18A7C.svg"/>
+      </images>
+    </master>
+  </masters>
+  <images>
+    <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+    <image key="FDCDC36B9010C9649D16BDA0831947E3.svg"/>
+    <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+    <image key="8BCF24CE6D6C57C2283747FDD227A67E.jpg"/>
+    <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+    <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+    <image key="4A1A07203BF2A2308599888574B67F56.png"/>
+    <image key="C2B7F4C3A07CA8AB80873DEE30C44374.png"/>
+    <image key="AEFA5401AD30C5E152F0C077476D822B.svg"/>
+    <image key="A5D43DDFBC0EB95F34D961FBB9DA1449.png"/>
+    <image key="FC6504E6D37921D9BFEE47A7CDD18A7C.svg"/>
+    <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
+    <image key="B845D5C7314F9A66A246F9D6248F7AC9.svg"/>
+    <image key="CF75DBB601952B6BB4B151C544C1D2C8.svg"/>
+  </images>
+  <enterprise syncid="gXINay1UBGAAF8" author="182590" syncversion="39" ismodified="False" istitlemodified="False" createtime="2018-10-25 03:14:26"/>
+  <deletes>
+    <pages/>
+    <masters/>
+  </deletes>
+  <trash>
+    <page name="Sign in" ID="8294F6E6-5CD8-E811-BEC6-6C40089F3C5E" expanded="True" code="vslGWQa2gQ" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="182590" createdate="2018-10-25 06:50:15" modifieddate="2018-10-25 06:50:46" isdeleted="False" ismodified="True" syncversion="0" lasteditor="182590"/>
+    <page name="Sign in page" ID="666283F3-5CD8-E811-BEC6-6C40089F3C5E" expanded="True" code="vLTngnIu6q" thumbCode="BSOgkalYCC" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True" author="182590" createdate="2018-10-25 06:50:36" modifieddate="2018-10-25 08:09:41" isdeleted="False" ismodified="True" syncversion="14" lasteditor="182590">
+      <images>
+        <image key="D490C652DAD7B0B7B04404FDF6724B82.svg"/>
+        <image key="A71E98588E066F88C73CF2B4E3CFBB82.svg"/>
+        <image key="48BD105CDAE853C04640B02166798F63.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+      </images>
+    </page>
+  </trash>
+</project>
